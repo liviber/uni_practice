@@ -3,7 +3,7 @@ __pycache__/
 venv/
 .venv/
 files/
-
+.DS_Store
 *.pyc
 .env
 .png
